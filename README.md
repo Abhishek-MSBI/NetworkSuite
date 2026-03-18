@@ -1,10 +1,10 @@
 # 🧬 NetworkSuite — Scientific Network Analysis Platform
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Tool-2563EB?style=for-the-badge)](https://abhishek-msbi.github.io/NetworkSuite/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Tool-2563EB?style=for-the-badge)](https://sequensolutions.com/tools/networksuite/)
 [![Version](https://img.shields.io/badge/Version-5.0-7C3AED?style=for-the-badge)](https://github.com/Abhishek-MSBI/NetworkSuite)
 [![License](https://img.shields.io/badge/License-MIT-059669?style=for-the-badge)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F59E0B?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Made By](https://img.shields.io/badge/Made%20by-Sequensolutions-EC4899?style=for-the-badge)](https://github.com/Abhishek-MSBI)
+[![Made By](https://img.shields.io/badge/Made%20by-Sequensolutions-EC4899?style=for-the-badge)](https://sequensolutions.com/tools/networksuite/)
 
 > **A fully client-side, publication-grade protein interaction network analysis platform built for computational biologists, cancer genomics researchers, and bioinformaticians. Zero installation. Zero server. Open in your browser and start analysing.**
 
@@ -12,7 +12,7 @@
 
 ## 🔗 Live Tool
 
-**▶️ [https://abhishek-msbi.github.io/NetworkSuite/](https://abhishek-msbi.github.io/NetworkSuite/)**
+**▶️ [https://abhishek-msbi.github.io/NetworkSuite/](https://sequensolutions.com/tools/networksuite/)**
 
 No installation required. Works entirely in the browser.
 
@@ -48,7 +48,7 @@ No installation required. Works entirely in the browser.
 ## 🚀 Quick Start
 
 ### Option 1 — Use Live (Recommended)
-Open **[https://abhishek-msbi.github.io/NetworkSuite/](https://abhishek-msbi.github.io/NetworkSuite/)** in any modern browser.
+Open **[https://abhishek-msbi.github.io/NetworkSuite/](https://sequensolutions.com/tools/networksuite/)** in any modern browser.
 
 ### Option 2 — Run Locally
 ```bash
