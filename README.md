@@ -48,7 +48,7 @@ No installation required. Works entirely in the browser.
 ## 🚀 Quick Start
 
 ### Option 1 — Use Live (Recommended)
-Open **[https://abhishek-msbi.github.io/NetworkSuite/](https://sequensolutions.com/tools/networksuite/)** in any modern browser.
+Open **[https://www.sequensolutions.com/tools/networkSuite/](https://sequensolutions.com/tools/networksuite/)** in any modern browser.
 
 ### Option 2 — Run Locally
 ```bash
