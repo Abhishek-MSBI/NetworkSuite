@@ -12,7 +12,7 @@
 
 ## 🔗 Live Tool
 
-**▶️ [https://abhishek-msbi.github.io/NetworkSuite/](https://sequensolutions.com/tools/networksuite/)**
+**▶️ [https://sequensolutions.com/tools/networksuite/](https://sequensolutions.com/tools/networksuite/)**
 
 No installation required. Works entirely in the browser.
 
